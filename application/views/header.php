@@ -22,7 +22,7 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a target="_blank" href="https://github.com/anvoz/CodeIgniter-Skeleton">Github</a></li>
+                <li><a target="_blank" href="https://github.com/amchicas/CodeIgniter-Skeleton">Github</a></li>
             </ul>
         </nav>
     </div>

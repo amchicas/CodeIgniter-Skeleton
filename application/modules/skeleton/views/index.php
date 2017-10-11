@@ -13,7 +13,7 @@
             </p>
             <p>
                 If you are exploring CodeIgniter for the very first time, you should start by reading the
-                <a target="_blank" href="http://ellislab.com/codeigniter/user-guide/">User Guide</a>.
+                <a target="_blank" href="https://www.codeigniter.com/user_guide/">User Guide</a>.
             </p>
             <p>
                 Page rendered in <strong>{elapsed_time}</strong> seconds.
@@ -25,7 +25,7 @@
             ?>
                 <div class="alert alert-warning">
                     Please follow the guide
-                    <a class="alert-link" href="https://github.com/anvoz/CodeIgniter-Skeleton#setup" target="_blank">here</a>
+                    <a class="alert-link" href="https://github.com/amchicas/CodeIgniter-Skeleton" target="_blank">here</a>
                     to setup your <code>assets_url</code>. You should use absolute path, including the protocol.
                 </div>
             <?php
