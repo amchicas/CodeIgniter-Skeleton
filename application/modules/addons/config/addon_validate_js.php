@@ -18,8 +18,8 @@ $config['require'] = array(
 );
 
 $config['files'] = array(
-    'controllers/form_validation_example.php' => array('dest' => 'application/modules/form_validation_example/controllers'),
-    'controllers/form_validation_example_ajax.php' => array('dest' => 'application/modules/form_validation_example/controllers'),
+    'controllers/Form_validation_example.php' => array('dest' => 'application/modules/form_validation_example/controllers'),
+    'controllers/Form_validation_example_ajax.php' => array('dest' => 'application/modules/form_validation_example/controllers'),
     'views/example_form.php' => array('dest' => 'application/modules/form_validation_example/views'),
     'views/pagelet_example_form.php' => array('dest' => 'application/modules/form_validation_example/views'),
     'formvalidation.js' => array('dest' => 'assets/js'),

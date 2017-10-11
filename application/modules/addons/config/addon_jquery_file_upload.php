@@ -19,8 +19,8 @@ $config['description'] = '
 
 $config['files'] = array(
     'config/upload.php' => array('dest' => 'application/config'),
-    'controllers/photo.php' => array('dest' => 'application/modules/photo/controllers'),
-    'controllers/photo_ajax.php' => array('dest' => 'application/modules/photo/controllers'),
+    'controllers/Photo.php' => array('dest' => 'application/modules/photo/controllers'),
+    'controllers/Photo_ajax.php' => array('dest' => 'application/modules/photo/controllers'),
     'libraries/jQuery_file_upload/Uploadhandler.php' => array('dest' => 'application/libraries/jQuery_file_upload'),
     'libraries/Uploader.php' => array('dest' => 'application/libraries'),
     'views/upload_control/template_error.php' => array('dest' => 'application/modules/photo/views/upload_control'),

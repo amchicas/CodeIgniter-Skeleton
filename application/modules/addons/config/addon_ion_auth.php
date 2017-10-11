@@ -22,13 +22,13 @@ $config['require'] = array(
 
 $config['files'] = array(
     'config/ion_auth.php' => array('dest' => 'application/config'),
-    'controllers/auth.php' => array('dest' => 'application/modules/auth/controllers'),
-    'controllers/auth_ajax.php' => array('dest' => 'application/modules/auth/controllers'),
+    'controllers/Auth.php' => array('dest' => 'application/modules/auth/controllers'),
+    'controllers/Auth_ajax.php' => array('dest' => 'application/modules/auth/controllers'),
     'language/auth_lang.php' => array('dest' => 'application/language/english'),
     'language/ion_auth_lang.php' => array('dest' => 'application/language/english'),
     'libraries/Ion_auth/Ion_auth.php' => array('dest' => 'application/libraries/Ion_auth'),
     'libraries/Authentication.php' => array('dest' => 'application/libraries'),
-    'models/ion_auth_model.php' => array('dest' => 'application/models'),
+    'models/Ion_auth_model.php' => array('dest' => 'application/models'),
     'views/email/activate.tpl.php' => array('dest' => 'application/modules/auth/views/email'),
     'views/email/forgot_password.tpl.php' => array('dest' => 'application/modules/auth/views/email'),
     'views/email/new_password.tpl.php' => array('dest' => 'application/modules/auth/views/email'),
