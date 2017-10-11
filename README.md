@@ -11,10 +11,10 @@ CodeIgniter Skeleton (CIS) is not only a decent starting point for most web apps
 
 ### Core
 
-* [CodeIgniter](https://github.com/EllisLab/CodeIgniter) 2.1.4 (last updated: Jul 8, 2013)
-* [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) 5.4 (last updated: Jul 31, 2013)
-* [jQuery](https://github.com/jquery/jquery) 1.11.1 (last updated: May 2, 2014)
-* [Bootstrap](https://github.com/twbs/bootstrap) 3.1.1 (last updated: Feb 14, 2014)
+* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 3.1.6 
+* [Modular Extensions - HMVC](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) 5.4 
+* [jQuery](https://github.com/jquery/jquery) 1.11.1 
+* [Bootstrap](https://github.com/twbs/bootstrap) 3.3.7 
 * [Bootstrap TLDR](https://github.com/anvoz/bootstrap-tldr) 1.1.0 (last updated: Mar 22, 2014)
 * Template library: handle masterview and views within masterview
 * Ajax request & response library: provide rapid ways to ajaxify everything
@@ -24,9 +24,9 @@ CodeIgniter Skeleton (CIS) is not only a decent starting point for most web apps
 Add-ons are custom builds of some useful libraries and plugins. They are **not included** in the project but already have a quick mechanic to install by (at least) simply clicking on the `Copy` button in Add-ons page.
 
 * Bootstrap form helpers: generate HTML form fields and buttons with Bootstrap CSS style
-* [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) 2.5.2 (last updated: Apr 19, 2014)
-* [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) 9.5.2 (last updated: Dec 13, 2013)
-* [validate.js](https://github.com/rickharrison/validate.js) 1.4 (last updated: Apr 14, 2014)
+* [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) 2.5.2 
+* [jQuery File Upload](https://github.com/blueimp/jQuery-File-Upload) 9.19.1 
+* [validate.js](https://github.com/rickharrison/validate.js) 2.0.1 
 
 ### Example
 
