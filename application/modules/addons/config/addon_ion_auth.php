@@ -27,6 +27,7 @@ $config['files'] = array(
     'language/auth_lang.php' => array('dest' => 'application/language/english'),
     'language/ion_auth_lang.php' => array('dest' => 'application/language/english'),
     'libraries/Ion_auth/Ion_auth.php' => array('dest' => 'application/libraries/Ion_auth'),
+    'libraries/Bcrypt.php' => array('dest' => 'application/libraries'),
     'libraries/Authentication.php' => array('dest' => 'application/libraries'),
     'models/Ion_auth_model.php' => array('dest' => 'application/models'),
     'views/email/activate.tpl.php' => array('dest' => 'application/modules/auth/views/email'),
